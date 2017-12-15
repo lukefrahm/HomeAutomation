@@ -1,0 +1,6 @@
+C:\Users\Administrator.LUKE\Desktop\HomeAutomation\HomeAutomation.DataAccess\bin\Debug\HomeAutomation.DataAccess.dll
+C:\Users\Administrator.LUKE\Desktop\HomeAutomation\HomeAutomation.DataAccess\bin\Debug\HomeAutomation.DataAccess.pdb
+C:\Users\Administrator.LUKE\Desktop\HomeAutomation\HomeAutomation.DataAccess\obj\Debug\HomeAutomation.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.LUKE\Desktop\HomeAutomation\HomeAutomation.DataAccess\obj\Debug\HomeAutomation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.LUKE\Desktop\HomeAutomation\HomeAutomation.DataAccess\obj\Debug\HomeAutomation.DataAccess.dll
+C:\Users\Administrator.LUKE\Desktop\HomeAutomation\HomeAutomation.DataAccess\obj\Debug\HomeAutomation.DataAccess.pdb
